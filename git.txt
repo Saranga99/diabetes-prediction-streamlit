@@ -1,0 +1,2 @@
+git remote add heroku https://git.heroku.com/diabetespred-hello-heroku.git/
+
